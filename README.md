@@ -1,4 +1,4 @@
-# WatchGoods
+# Shoe Side
 Shoe Side is a promotional website for my group's short movie with the same name.
 
 ## Table of Contents
@@ -47,5 +47,5 @@ This website is a single page web with 4 sections:
 ## Usage
 Simply open the HTML file in any modern web browser to view the website. Use the navigation bar to explore different sections of the page.
 
-## Inspiration
+## Source
 To make the parallax effects, I followed the tutorial from the YouTube Channel Codehal: https://youtu.be/kmM6mqvnxcs?si=IRPU6_XEtCWJPiS9.
